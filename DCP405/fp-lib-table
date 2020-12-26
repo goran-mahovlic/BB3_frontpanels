@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name DCP405)(type KiCad)(uri /media/internal/envox/front_panel/DCP405)(options "")(descr ""))
+  (lib (name ULX3S_BB3)(type KiCad)(uri /media/internal/envox/ULX3S_BB3)(options "")(descr ""))
+  (lib (name front_panel)(type KiCad)(uri /media/internal/envox/front_panel)(options "")(descr ""))
+)
